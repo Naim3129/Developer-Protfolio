@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.font-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half  {
+    width: 50%;
+    padding: 5%;
+}
+.half img{
+    width: 80%;
+
+}
+.Hire-Button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-size: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(/top-banner.jpg);
+    background-repeat: no-repeat;
+}
